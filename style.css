@@ -1,0 +1,31 @@
+/* https://teachablemachine.withgoogle.com/models/3DrZchUpI/ */
+body {
+    font-family: Tahoma;
+}
+.tahogren {
+    font-family: Tahoma;
+    color: green;
+}
+#coolTitle {
+    background: linear-gradient(to right, red , orange , yellow , lime , aqua , blue , pink);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+ 
+#mustPAD {
+    width: fit-content;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#snapshot_button, #identify_button {
+    font-size: 20px;
+}
+
+#identify_button {
+    opacity: 0.5;
+}
+
+#superSpan {
+
+}
